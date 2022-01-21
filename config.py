@@ -1,0 +1,1 @@
+TOKEN = 'YUO TOKEN BOT'
